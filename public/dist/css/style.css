@@ -1,0 +1,97 @@
+
+#product_content{
+    width: 135%;
+    position: absolute;
+    /* left: -33px; */
+    right: -101px;
+}
+#transections_content{
+	right: -223px;
+    width: 170%;
+    position: absolute;
+}
+#transaction_column{
+	margin-left: 45px;
+}
+#m-content{
+	width: 129%;
+	 position: absolute;
+    /* left: -33px; */
+    right: -101px;
+}
+.assigned_service_provider{
+    width: 168%;
+    position: absolute;
+    right: -201px;
+}
+/*
+PDF INVOICE UI
+*/
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+   #customers td, #customers th {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #fff;}
+  
+  #customers tr:hover {background-color:#fff;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: silver;
+    color: black; font-family: inherit; font-weight:900;
+    font-size:16px;
+  }
+.tab2{margin-top:50px;}
+.tab3{margin-top:50px;}
+/*body{padding-top:50px;}*/
+h5{font-size:15px; font-weight:720; line-height: 10px;}
+.hife{font-weight:500;}
+.bill{float:right; padding-bottom:50px;  margin-top:50px;  }
+.gtotal{line-height: 20px; font-size:16px; font-weight:600;}
+.bill h4{line-height: 28px;}
+.cont{padding:0px 0px 35px 0px;}
+
+/*products ordered model sub menu */
+.products_total_estimate{
+	margin-top: 61px;
+}
+/*payment shiping*/
+.pay_title{
+	font-size:15px;
+}
+.secton-title{padding:16px 0px 2px 0px;}
+
+.section-content{padding:14px 0px 0px 14px;}
+.title{font-weight:700;}
+/*payment shiping*/
+
+
+#search{height:34px; margin-top: 15px; }
+#search_btn{ margin:-4px 0px 0px -4px;}
+#add_more{margin:16px 18px 0px 0px; float:right;}
+#attendance_search{
+    margin-top: 17px;
+}
+#from_input{
+    margin-left: 14px;
+    height: 33px;
+}
+#to_input{
+    padding-left: 0px;
+    height: 33px;
+    margin-left: 14px;
+}
+ 
+#to_span{
+    margin-left: 18px; 
+}
+
+ 
